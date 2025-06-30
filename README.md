@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Data Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning%20Ideas%20Into%20Impactful%20Solutions!;Code.%20Analyze.%20Visualize.%20Repeat.&font=Fira%20Code&center=true&width=435&pause=1000&color=0FF8FC&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ideas%20Into%20Impactful%20Solutions!;Code.%20Analyze.%20Visualize.%20Repeat.&font=Fira%20Code&center=true&width=435&pause=1000&color=0FF8FC&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 ---
