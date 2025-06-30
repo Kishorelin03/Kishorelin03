@@ -69,4 +69,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff8fc&height=120&section=footer"/>
 </p>
-](https://chatgpt.com/c/6861f988-5b50-800b-995e-8d11996c8a3d)
