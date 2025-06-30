@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kishorelin Aruldhas Mabelclarabai</h1>
+<h3 align="center">Front-End Developer | Data Engineer | Data Science Enthusiast</h3>
 
-<!--
-**Kishorelin03/Kishorelin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning%20Ideas%20Into%20Impactful%20Solutions!;Code.%20Analyze.%20Visualize.%20Repeat.&font=Fira%20Code&center=true&width=435&pause=1000&color=0FF8FC&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 Master’s in Applied Computing @ University of Windsor  
+- 💡 I’m passionate about turning creative ideas into real-world tech solutions.  
+- 🚀 I love building tools that are both impactful and accessible.  
+- 🌐 I thrive at the intersection of **design, data, and development**.  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🌟 Fun Fact
+
+> "The best ideas are useless unless they’re built and shared — I make that happen with code and creativity!"
+
+---
+
+### 📫 Connect with Me
+
+- 📧 kishorelin.tad001@gmail.com | aruldha@uwindsor.ca  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kishorelinam/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishorelinam&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorelinam&theme=radical" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorelin03&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+<!-- Replace with project cards once you're ready -->
+<!-- ### 🚀 Projects -->
+<!-- - 🛠 Project 1 - Description -->
+<!-- - 📊 Project 2 - Description -->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff8fc&height=120&section=footer"/>
+</p>
