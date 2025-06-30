@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Kishorelin Aruldhas Mabelclarabai</h1>
+<h1 align="center">Hi 👋, I'm Kishorelin Aruldhas Mabelclarabai</h1>
 <h3 align="center">Front-End Developer | Data Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
