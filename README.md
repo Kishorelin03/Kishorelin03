@@ -47,18 +47,24 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical"/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorelin03&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+🧮 <strong>Overall Stats</strong>  
+<img src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical" width="60%" />
+
+💬 <strong>Language Usage</strong>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=donut&theme=radical" width="50%" />
+
+🔥 <strong>Commit Streak</strong>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishorelin03&theme=radical" width="60%" />
+
+🏆 <strong>Achievements</strong>  
+<img src="https://github-profile-trophy.vercel.app/?username=Kishorelin03&theme=radical&row=1&column=5" width="80%" />
+
+</div>
+
 
 ---
 
