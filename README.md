@@ -45,17 +45,17 @@
 - 📧 kishorelin.tad001@gmail.com | aruldha@uwindsor.ca  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kishorelinam/)
 
----
+<h2>📊 GitHub Analytics Snapshot</h2>
 
-<h2 align="center">📊 GitHub Analytics Snapshot</h2>
-
+<div display=flex>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical" width="55%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=donut&theme=radical" width="45%" />
 </p>
+</div>
 
 
 ---
