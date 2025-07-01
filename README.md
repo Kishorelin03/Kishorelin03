@@ -47,7 +47,7 @@
 
 <h2>📊 GitHub Analytics Snapshot</h2>
 
-<div display=flex, flex-direction=row>
+<div>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical" width="55%" />
 </p>
