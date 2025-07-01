@@ -51,10 +51,10 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical" width="48%"/>
     </td>
-    <td width="50%">
+    <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorelin03&layout=compact&theme=radical" width="48%"/>
     </td>
   </tr>
