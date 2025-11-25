@@ -1,187 +1,170 @@
 <div align="center">
-  
-  <!-- Animated Header with Gradient -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Kishorelin+Aruldhas+Mabelclarabai!;Developer+%7C+Data+Engineer+%7C+Data+Science+Enthusiast;Ideas+Into+Impactful+Solutions!;Code.+Analyze.+Visualize.+Repeat.&font=Fira+Code&center=true&width=600&height=80&duration=3000&pause=1000&color=0FF8FC&vCenter=true&size=35&weight=600" alt="Typing SVG" />
 
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=0FF8FC&style=for-the-badge" alt="Profile Views" />
-  </p>
+# Kishorelin Aruldhas Mabelclarabai
 
-  <!-- Animated Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kishorelinam/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kishorelin.tad001@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-    </a>
-    <a href="mailto:aruldha@uwindsor.ca">
-      <img src="https://img.shields.io/badge/University-Email-0FF8FC?style=for-the-badge&logo=mail&logoColor=white&labelColor=0FF8FC" alt="University Email" />
-    </a>
-  </p>
+### Developer | Data Engineer | Data Science Enthusiast
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=667eea&style=flat-square)](https://github.com/Kishorelin03)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Kishorelin03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorelinam/)
 
 </div>
 
 ---
 
-<!-- Animated Wave Divider -->
+## 📋 Overview
+
+<table>
+<tr>
+<td width="50%">
+
+### About Me
+
+🎓 **Master's in Applied Computing** @ University of Windsor
+
+Passionate about transforming creative ideas into impactful tech solutions. I specialize in building scalable applications that bridge the gap between data insights and user experience.
+
+**Core Focus Areas:**
+- Full-stack development
+- Data engineering & analytics
+- Performance optimization
+- Cloud infrastructure
+
+</td>
+<td width="50%">
+
+### Current Status
+
+🟢 **Available for opportunities**
+
+**Currently Working On:**
+- Building scalable data pipelines
+- Developing full-stack applications
+- Creating data visualizations
+- Learning advanced cloud technologies
+
+**Interests:**
+- Data Science & Machine Learning
+- System Architecture
+- DevOps & Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Data & Analytics Tools
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### DevOps & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff8fc&height=100&section=header&text=Welcome+to+My+Profile!&fontSize=42&fontColor=fff&animation=twinkling" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true)
+
+</td>
+<td align="center" width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Kishorelin03&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishorelin03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=667eea&point=FFFFFF&area=true&area_color=667eea)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Professional Experience
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-```diff
-+ 🎓 Master's in Applied Computing @ University of Windsor
-+ 💡 Passionate about turning creative ideas into real-world tech solutions
-+ 🚀 Love building tools that are both impactful and accessible
-+ 🌐 Thrive at the intersection of design, data, and development
-```
+**Key Competencies:**
+- Full-stack web development
+- Data pipeline engineering
+- Performance analysis & optimization
+- Cloud infrastructure management
+- Database design & optimization
 
-</div>
+</td>
+<td>
 
----
+**Methodologies:**
+- Agile/Scrum development
+- CI/CD pipeline implementation
+- Test-driven development
+- Data-driven decision making
+- System architecture design
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=30" />
-</p>
-
-### ⚛️ Frontend & Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=30" />
-</p>
-
-### ☁️ Data & Cloud Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black&logoWidth=30" />
-</p>
-
-### 🐧 DevOps & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Philosophy
 
-<div align="center">
-  
-  <!-- GitHub Stats with Animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0FF8FC&icon_color=0FF8FC&text_color=ffffff" alt="GitHub Stats" />
-  
-  <!-- Top Languages with Animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FF8FC&text_color=ffffff" alt="Top Languages" />
-  
-</div>
+> *"The best ideas are useless unless they're built and shared — I make that happen with code and creativity!"*
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Kishorelin03&theme=radical&hide_border=true&background=0D1117&ring=0FF8FC&fire=0FF8FC&currStreakLabel=0FF8FC" alt="GitHub Streak" />
-  
-</div>
+I believe in creating solutions that are not only technically sound but also accessible and impactful. Every project is an opportunity to learn, innovate, and make a difference.
 
 ---
 
-## 🌟 Fun Fact
+## 📬 Contact & Connect
 
 <div align="center">
-  
-  <blockquote>
-    <p style="font-size: 1.2em; font-style: italic; color: #0FF8FC;">
-      "The best ideas are useless unless they're built and shared — I make that happen with code and creativity!"
-    </p>
-  </blockquote>
-  
-</div>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorelinam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorelin.tad001@gmail.com)
+[![University Email](https://img.shields.io/badge/University-667eea?style=for-the-badge&logo=mail&logoColor=white)](mailto:aruldha@uwindsor.ca)
 
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishorelin03&theme=radical&hide_border=true&bg_color=0D1117&color=0FF8FC&line=0FF8FC&point=FFFFFF&area=true&area_color=0FF8FC)
-  
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-  - 🔨 Building scalable data pipelines
-  - 📊 Creating impactful data visualizations
-  - 🚀 Developing full-stack applications
-  - 📚 Learning new technologies and best practices
-  
-</div>
-
----
-
-## 💼 Let's Connect!
-
-<div align="center">
-  
-  <p>
-    <a href="https://www.linkedin.com/in/kishorelinam/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishorelinam/" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kishorelin.tad001@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishorelin.tad001@gmail.com" alt="Gmail" />
-    </a>
-    <a href="mailto:aruldha@uwindsor.ca">
-      <img src="https://img.shields.io/badge/-University%20Email-0FF8FC?style=flat-square&logo=mail&logoColor=white&link=mailto:aruldha@uwindsor.ca" alt="University Email" />
-    </a>
-  </p>
-  
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff8fc&height=120&section=footer&animation=twinkling" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Powered%20by-GitHub-black?style=for-the-badge&logo=github" />
-  </p>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=0FF8FC&style=flat-square" alt="Profile Views" />
-  </p>
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  ### ⭐️ Star this repository if you find it interesting! ⭐️
-  
-</div>
 
+**Let's build something amazing together!** 🚀
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorelin03)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=667eea&style=flat-square)](https://github.com/Kishorelin03)
+
+Made with ❤️ using GitHub
+
+</div>
