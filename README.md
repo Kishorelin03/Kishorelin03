@@ -90,20 +90,28 @@ Passionate about transforming creative ideas into impactful tech solutions. I sp
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true)
+<a href="https://github.com/Kishorelin03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
 </td>
 <td align="center" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff)
+<a href="https://github.com/Kishorelin03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages" />
+</a>
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Kishorelin03&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea)
+<a href="https://github.com/Kishorelin03">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Kishorelin03&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" />
+</a>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishorelin03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=667eea&point=FFFFFF&area=true&area_color=667eea)
+<a href="https://github.com/Kishorelin03">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishorelin03&theme=radical&bg_color=0D1117&color=667eea&line=667eea&point=FFFFFF&area=true&area_color=667eea&hide_border=true" alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
