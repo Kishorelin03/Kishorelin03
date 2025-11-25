@@ -2,9 +2,7 @@
 ### Developer • Data Engineer • AI & Systems Enthusiast  
 
 <p align="center">
-  <a href="https://github.com/Kishorelin03">
-    <img src="https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=6C63FF&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kishorelin03&label=Profile%20Views&color=6C63FF&style=flat-square" />
   <a href="https://github.com/Kishorelin03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -64,25 +62,22 @@ I enjoy creating tech solutions that blend **developer experience**, **data engi
 
 ## 📊 GitHub Insights
 
-### ⭐ Stats (Custom Deploy — Always Works)
+### ⭐ GitHub Stats (100% Working)
 <p align="center">
-
-<a href="https://github.com/Kishorelin03">
-  <img height="170" src="https://github-readme-stats-git-master-kishorelin03.vercel.app/api?username=Kishorelin03&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Kishorelin03">
-  <img height="170" src="https://github-readme-stats-git-master-kishorelin03.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kishorelin03&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Streak (Working)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishorelin03&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Kishorelin03&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Activity Graph
+### 🧠 Top Languages (Working)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorelin03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Activity Graph (Working)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishorelin03&theme=tokyo-night&hide_border=true" />
 </p>
@@ -101,16 +96,14 @@ I enjoy creating tech solutions that blend **developer experience**, **data engi
 ### **Work Practices**
 - Agile/Scrum  
 - CI/CD automation  
-- Containerization & orchestration  
-- System design & scalability patterns  
-- Data-driven analysis & decision making  
+- Containerization  
+- System design & scalability  
+- Data-driven analysis  
 
 ---
 
 ## 🧠 Philosophy  
 > *“Great ideas need great execution — I build systems that turn ideas into impact.”*
-
-I create technology that is **reliable**, **scalable**, and **human-centered**.
 
 ---
 
